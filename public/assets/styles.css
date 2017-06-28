@@ -28,6 +28,7 @@ input[type="text"]{
     float: left;
     font-size: 20px;
     color: #989898;
+    box-sizing: border-box;
 }
 
 button{
